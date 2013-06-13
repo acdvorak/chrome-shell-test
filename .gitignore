@@ -1,0 +1,7 @@
+*.suo
+*.DotSettings.user
+.DS_Store
+._.DS_Store
+/_ReSharper.*
+/*/bin
+/*/obj
